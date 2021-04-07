@@ -1,0 +1,23 @@
+.article-wrapper__component {
+  background-color: white;
+  margin: 20px 100px;
+  text-align: left;
+  padding: 10px 24px;
+}
+
+.article-thumbnail__img {
+  height: 150px;
+}
+
+.article-action__wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.article-title__h2 {
+  cursor: pointer;
+}
+
+.article-title__h2:hover {
+  color: #08c;
+}
